@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Role assignments or "role to be assigned" note for: Release Manager, QA Lead, Technical Architect, Change Manager, Support/On-call Lead (use "TBD" for smaller projects where these are not yet identified)
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,12 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+- Extended role assignments (or "role to be assigned" if not yet identified):
+  - Release Manager:
+  - QA Lead:
+  - Technical Architect:
+  - Change Manager:
+  - Support / On-call Lead:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
